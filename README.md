@@ -1,6 +1,6 @@
 # Arrowstack Price Tracker - Task 1
 
-## Intern Name: Swetha Karedla
+## Intern Name: Karedla Swetha 
 
 This is Task 1 for Arrowstack Internship - E-Commerce Price Tracker.
 
